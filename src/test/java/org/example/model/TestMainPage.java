@@ -13,9 +13,7 @@ import static org.junit.Assert.assertTrue;
 
 
 public class TestMainPage {
-    private final String NAME = "SlavaTestLogin";
-    private final String EMAIL = "SlavaTestLogin@ya.ru";
-    private final String PASSWORD = "SlavaTestLogin";
+   
     private WebDriver driver;
 
     @Before
